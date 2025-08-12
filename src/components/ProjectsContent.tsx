@@ -33,11 +33,11 @@ export default function ProjectsContent() {
       type: 'Confidential'
     },
     {
-      title: 'Smart Contract Collection',
-      tech: 'Solidity • Hardhat • OpenZeppelin',
-      description: 'Various contracts for DeFi, NFTs, and token systems',
+      title: 'Crypto Tax Calculator for Japan',
+      tech: 'TypeScript • React • Node.js • PostgreSQL • Prisma',
+      description: 'Full-stack crypto tax calculator with FIFO calculations, CSV parsing, and automated Japan tax compliance reporting',
       type: 'Personal Project',
-      github: 'https://github.com/yourusername/smart-contracts'
+      github: 'https://github.com/SheldonNg99/blockzei',
     },
     {
       title: '3D Interactive Portfolio',
